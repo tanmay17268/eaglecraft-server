@@ -35,6 +35,20 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
+    despawn-ranges:
+      soft: 32
+      hard: 128
+    falling-block-height-nerf: 0
+    remove-unloaded:
+      enderpearls: true
+      tnt-entities: true
+      falling-blocks: true
+    game-mechanics:
+      boats-drop-boats: false
+      disable-player-crits: false
+      disable-chest-cat-detection: false
+      disable-end-credits: false
+    disable-teleportation-suffocation-check: false
     optimize-explosions: false
     mob-spawner-tick-rate: 1
     cache-chunk-maps: false
@@ -48,30 +62,16 @@ world-settings:
     fishing-time-range:
       MinimumTicks: 100
       MaximumTicks: 900
-    game-mechanics:
-      boats-drop-boats: false
-      disable-player-crits: false
-      disable-chest-cat-detection: false
-      disable-end-credits: false
+    player-exhaustion:
+      block-break: 0.02500000037252903
+      swimming: 0.014999999664723873
+    player-blocking-damage-multiplier: 0.5
+    remove-invalid-mob-spawner-tile-entities: true
     nether-ceiling-void-damage: false
     load-chunks:
       enderpearls: false
       tnt-entities: false
       falling-blocks: false
-    disable-teleportation-suffocation-check: false
-    player-blocking-damage-multiplier: 0.5
-    remove-invalid-mob-spawner-tile-entities: true
-    player-exhaustion:
-      block-break: 0.02500000037252903
-      swimming: 0.014999999664723873
-    despawn-ranges:
-      soft: 32
-      hard: 128
-    falling-block-height-nerf: 0
-    remove-unloaded:
-      enderpearls: true
-      tnt-entities: true
-      falling-blocks: true
     fast-drain:
       lava: false
       water: false
@@ -85,8 +85,8 @@ world-settings:
     use-hopper-check: false
     all-chunks-are-slime-chunks: false
     allow-undead-horse-leashing: false
-    container-update-tick-rate: 1
     keep-spawn-loaded: true
+    container-update-tick-rate: 1
     falling-blocks-collide-with-signs: false
     disable-mood-sounds: false
     use-async-lighting: false
