@@ -88,3 +88,21 @@
 [09:59:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58314]: Logged in as 'Divij'
 [09:59:26] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58314|Divij] -> UpstreamBridge has connected
 [09:59:26] [Netty Worker IO Thread #3/INFO]: [Divij|/[0:0:0:0:0:0:0:1%0]:58314] <-> ServerConnector [lobby] has connected
+[11:37:24] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58314|Divij] -> UpstreamBridge has disconnected
+[11:37:24] [Netty Worker IO Thread #3/INFO]: [Divij] disconnected with: Proxy lost connection to server.
+[11:37:24] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:58314|Divij] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:37:33] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36734|LeLouch] -> UpstreamBridge has disconnected
+[11:37:33] [Netty Worker IO Thread #1/INFO]: [LeLouch] disconnected with: Proxy lost connection to server.
+[11:37:33] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:36734|LeLouch] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:39:01] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:53884|TB_] -> UpstreamBridge has disconnected
+[11:39:01] [Netty Worker IO Thread #2/INFO]: [TB_] disconnected with: Proxy lost connection to server.
+[11:39:01] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:53884|TB_] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:39:17] [Shutdown Thread/INFO]: Closing listener [id: 0x6628cfa2, L:/127.0.0.1:25577]
+[11:39:17] [Shutdown Thread/INFO]: Closing pending connections
+[11:39:17] [Shutdown Thread/INFO]: Disconnecting 0 connections
+[11:39:17] [Shutdown Thread/INFO]: Disabling plugins
+[11:39:17] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /0.0.0.0:8081
+[11:39:17] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[11:39:17] [Shutdown Thread/INFO] [EaglercraftXBungee]: Stopping skin cache HTTP client...
+[11:39:19] [Shutdown Thread/INFO]: Closing IO threads
+[11:39:21] [Shutdown Thread/INFO]: Thank you and goodbye

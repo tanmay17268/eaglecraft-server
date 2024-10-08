@@ -282,3 +282,227 @@
 [10:17:23] [Server thread/INFO]: [LeLouch: Teleported LeLouch to 507.5, 63.0, 932.5]
 [10:18:19] [Server thread/INFO]: LeLouch issued server command: /tp @p 94 61 6
 [10:18:19] [Server thread/INFO]: [LeLouch: Teleported LeLouch to 94.5, 61.0, 6.5]
+[10:29:20] [Server thread/INFO]: LeLouch fell from a high place
+[10:29:29] [Server thread/INFO]: LeLouch issued server command: /back
+[10:36:29] [Server thread/INFO]: LeLouch was slain by Enderman
+[10:36:35] [Server thread/INFO]: LeLouch issued server command: /back
+[10:36:45] [Server thread/WARN]: LeLouch moved wrongly!
+[10:47:39] [Server thread/INFO]: Divij issued server command: /summon ender_dragon
+[10:47:39] [Server thread/WARN]: Skipping Entity with id ender_dragon
+[10:47:39] [Server thread/INFO]: [Divij: Unable to summon object]
+[10:47:54] [Server thread/INFO]: Divij issued server command: /summon ender_dragon
+[10:47:54] [Server thread/WARN]: Skipping Entity with id ender_dragon
+[10:47:54] [Server thread/INFO]: [Divij: Unable to summon object]
+[10:48:10] [Server thread/INFO]: Divij issued server command: /summon ender_dragon
+[10:48:10] [Server thread/WARN]: Skipping Entity with id ender_dragon
+[10:48:10] [Server thread/INFO]: [Divij: Unable to summon object]
+[10:49:12] [Server thread/INFO]: TB_ fell from a high place
+[10:49:17] [Server thread/INFO]: TB_ issued server command: /back
+[10:49:56] [Server thread/INFO]: LeLouch issued server command: /summon ender_dragon
+[10:49:56] [Server thread/WARN]: Skipping Entity with id ender_dragon
+[10:49:56] [Server thread/INFO]: [LeLouch: Unable to summon object]
+[10:50:21] [Server thread/INFO]: Divij issued server command: /summon ender_dragon 7 65 -18
+[10:50:21] [Server thread/WARN]: Skipping Entity with id ender_dragon
+[10:50:21] [Server thread/INFO]: [Divij: Unable to summon object]
+[10:50:57] [Server thread/INFO]: LeLouch issued server command: /summon zombie
+[10:50:57] [Server thread/WARN]: Skipping Entity with id zombie
+[10:50:57] [Server thread/INFO]: [LeLouch: Unable to summon object]
+[10:52:06] [Server thread/INFO]: Divij issued server command: /gamemode spectator
+[10:52:06] [Server thread/INFO]: [Divij: Set own game mode to Spectator Mode]
+[10:52:52] [Server thread/INFO]: LeLouch issued server command: /gamemode spectator
+[10:52:52] [Server thread/INFO]: [LeLouch: Set own game mode to Spectator Mode]
+[10:55:35] [Server thread/INFO]: LeLouch issued server command: /gamemode survival
+[10:55:35] [Server thread/INFO]: [LeLouch: Set own game mode to Survival Mode]
+[10:56:17] [Server thread/WARN]: Divij moved too quickly! 8.872569709549623,2.2417863843405286,-4.153812182567357 (8.872569709549623, 2.2417863843405286, -4.153812182567357)
+[10:56:18] [Server thread/WARN]: Divij moved too quickly! 9.440812689864256,1.457328308674235,-4.916640511459163 (9.440812689864256, 1.457328308674235, -4.916640511459163)
+[10:56:19] [Server thread/WARN]: Divij moved too quickly! 18.616109841989363,0.5703722946904719,-14.362813375367498 (18.616109841989363, 0.5703722946904719, -14.362813375367498)
+[10:56:20] [Server thread/WARN]: Divij moved too quickly! 3.8357208318178735,-2.7201335572610077,9.524102939969513 (3.8357208318178735, -2.7201335572610077, 9.524102939969513)
+[10:56:21] [Server thread/WARN]: Divij moved too quickly! -9.499861354544933,-4.6805848122470906,7.3432023898273595 (-9.499861354544933, -4.6805848122470906, 7.3432023898273595)
+[10:56:22] [Server thread/WARN]: Divij moved too quickly! -8.034747678588005,-2.4301681467426732,5.664468745636521 (-8.034747678588005, -2.4301681467426732, 5.664468745636521)
+[10:56:22] [Server thread/WARN]: Divij moved too quickly! -7.852611961084072,-2.375405248546244,6.608637056840182 (-7.852611961084072, -2.375405248546244, 6.608637056840182)
+[10:56:23] [Server thread/WARN]: Divij moved too quickly! -8.938733773442621,-1.9418470059291337,8.528751814584382 (-8.938733773442621, -1.9418470059291337, 8.528751814584382)
+[10:56:23] [Server thread/WARN]: Divij moved too quickly! -8.05459853339386,-1.8465759558874737,8.527324426272557 (-8.05459853339386, -1.8465759558874737, 8.527324426272557)
+[10:56:24] [Server thread/WARN]: Divij moved too quickly! -6.940999494371145,-1.439002691293524,7.083213755942218 (-6.940999494371145, -1.439002691293524, 7.083213755942218)
+[10:56:25] [Server thread/WARN]: Divij moved too quickly! -21.39981767240401,0.882091188395492,17.231340394858442 (-21.39981767240401, 0.882091188395492, 17.231340394858442)
+[10:56:26] [Server thread/WARN]: Divij moved too quickly! -21.741450569526357,12.436270765600923,1.606849211784919 (-21.741450569526357, 12.436270765600923, 1.606849211784919)
+[10:56:27] [Server thread/WARN]: Divij moved too quickly! -17.44025354224341,10.478671945784711,-14.093939320739558 (-17.44025354224341, 10.478671945784711, -14.093939320739558)
+[10:56:28] [Server thread/WARN]: Divij moved too quickly! -6.276496392972248,3.114375054180414,-19.962574515628575 (-6.276496392972248, 3.114375054180414, -19.962574515628575)
+[10:56:29] [Server thread/WARN]: Divij moved too quickly! -2.3404178373351385,-5.392614064556696,-22.21489136886681 (-2.3404178373351385, -5.392614064556696, -22.21489136886681)
+[10:56:30] [Server thread/WARN]: Divij moved too quickly! -4.087231196875322,-7.613407746855188,-21.993681108423687 (-4.087231196875322, -7.613407746855188, -21.993681108423687)
+[10:56:31] [Server thread/WARN]: Divij moved too quickly! 9.638609199943758,2.779720868488397,-16.33629865325147 (9.638609199943758, 2.779720868488397, -16.33629865325147)
+[10:56:32] [Server thread/WARN]: Divij moved too quickly! 17.65843836476418,4.244497434884721,-3.150602512493478 (17.65843836476418, 4.244497434884721, -3.150602512493478)
+[10:56:34] [Server thread/WARN]: Divij moved too quickly! 23.538835019555442,4.3073724980961146,-0.4273849997425856 (23.538835019555442, 4.3073724980961146, -0.4273849997425856)
+[10:56:34] [Server thread/WARN]: Divij moved too quickly! 16.069182967233132,2.762815336023209,0.34338036518116155 (16.069182967233132, 2.762815336023209, 0.34338036518116155)
+[10:56:35] [Server thread/WARN]: Divij moved too quickly! 10.483639146603593,2.006241356272028,1.6055973514456099 (10.483639146603593, 2.006241356272028, 1.6055973514456099)
+[10:56:35] [Server thread/WARN]: Divij moved too quickly! 10.163529685955037,2.0508503269832943,0.9704367195768171 (10.163529685955037, 2.0508503269832943, 0.9704367195768171)
+[10:56:36] [Server thread/WARN]: Divij moved too quickly! 10.145585677360927,2.1157497196370514,0.5704967119991622 (10.145585677360927, 2.1157497196370514, 0.5704967119991622)
+[10:56:36] [Server thread/WARN]: Divij moved too quickly! 11.930883594435418,2.2130901836381014,2.405676433497227 (11.930883594435418, 2.2130901836381014, 2.405676433497227)
+[10:56:37] [Server thread/WARN]: Divij moved too quickly! 10.514855719315172,2.2360132983014154,2.00387336186251 (10.514855719315172, 2.2360132983014154, 2.00387336186251)
+[10:56:37] [Server thread/WARN]: Divij moved too quickly! 9.81383757800728,1.5757895505503612,2.080403946202267 (9.81383757800728, 1.5757895505503612, 2.080403946202267)
+[10:56:38] [Server thread/WARN]: Divij moved too quickly! 17.060586679598877,-3.512395371522416,12.38061452930588 (17.060586679598877, -3.512395371522416, 12.38061452930588)
+[10:56:39] [Server thread/WARN]: Divij moved too quickly! -5.619182824831412,-4.511192266220284,13.411010570473024 (-5.619182824831412, -4.511192266220284, 13.411010570473024)
+[10:56:41] [Server thread/WARN]: Divij moved too quickly! -16.480412848109495,-2.7514838706558606,14.65349686516404 (-16.480412848109495, -2.7514838706558606, 14.65349686516404)
+[10:56:41] [Server thread/WARN]: Divij moved too quickly! -9.400963809115687,-0.978087459289867,6.934323462399672 (-9.400963809115687, -0.978087459289867, 6.934323462399672)
+[10:56:42] [Server thread/WARN]: Divij moved too quickly! -8.262186885122333,-2.349017256060634,6.228658534823276 (-8.262186885122333, -2.349017256060634, 6.228658534823276)
+[10:56:43] [Server thread/WARN]: Divij moved too quickly! -7.039070275096918,-7.100458014397958,-1.943991588172267 (-7.039070275096918, -7.100458014397958, -1.943991588172267)
+[10:56:44] [Server thread/WARN]: Divij moved too quickly! 4.636388428309427,-1.880776829124116,-9.823340506244818 (4.636388428309427, -1.880776829124116, -9.823340506244818)
+[10:56:45] [Server thread/WARN]: Divij moved too quickly! 7.697373470378292,0.7187455549876205,-15.581719201786342 (7.697373470378292, 0.7187455549876205, -15.581719201786342)
+[10:56:46] [Server thread/WARN]: Divij moved too quickly! 2.2770720753302527,0.2050687528535775,-14.335388591667586 (2.2770720753302527, 0.2050687528535775, -14.335388591667586)
+[10:56:47] [Server thread/WARN]: Divij moved too quickly! -11.975111277728619,-3.4926334432993684,-8.785806930730175 (-11.975111277728619, -3.4926334432993684, -8.785806930730175)
+[10:56:48] [Server thread/WARN]: Divij moved too quickly! 3.1199860956335606,-8.222339342431638,-13.363975507360585 (3.1199860956335606, -8.222339342431638, -13.363975507360585)
+[10:56:49] [Server thread/WARN]: Divij moved too quickly! 11.693122274195566,-4.451294099347848,-2.038385652266676 (11.693122274195566, -4.451294099347848, -2.038385652266676)
+[10:56:51] [Server thread/WARN]: Divij moved too quickly! 21.713256978995695,5.11232857601216,-3.3830551707191745 (21.713256978995695, 5.11232857601216, -3.3830551707191745)
+[10:56:52] [Server thread/WARN]: Divij moved too quickly! 3.8754095347980027,12.917098674131907,13.978898183736966 (3.8754095347980027, 12.917098674131907, 13.978898183736966)
+[10:56:53] [Server thread/WARN]: Divij moved too quickly! -9.300735735495536,10.513436805748768,14.592317638571807 (-9.300735735495536, 10.513436805748768, 14.592317638571807)
+[10:56:54] [Server thread/WARN]: Divij moved too quickly! -11.77600581540296,-2.691282106814242,7.478611668085538 (-11.77600581540296, -2.691282106814242, 7.478611668085538)
+[10:56:55] [Server thread/WARN]: Divij moved too quickly! -19.212241313270052,-0.9231147939610054,3.261177289424822 (-19.212241313270052, -0.9231147939610054, 3.261177289424822)
+[10:56:56] [Server thread/WARN]: Divij moved too quickly! -20.064347443794112,-0.4876527172097411,1.9958475793503734 (-20.064347443794112, -0.4876527172097411, 1.9958475793503734)
+[10:56:56] [Server thread/WARN]: Divij moved too quickly! -10.445301229832983,-0.23068730968687134,0.8823535711275756 (-10.445301229832983, -0.23068730968687134, 0.8823535711275756)
+[10:56:57] [Server thread/WARN]: Divij moved too quickly! -11.79484376749182,-0.1832568262434222,-0.7094778463741616 (-11.79484376749182, -0.1832568262434222, -0.7094778463741616)
+[10:56:58] [Server thread/WARN]: Divij moved too quickly! -16.23666629939588,-1.3628188551601141,-3.0429935309364353 (-16.23666629939588, -1.3628188551601141, -3.0429935309364353)
+[10:57:16] [Server thread/INFO]: Divij issued server command: /gamemode survival
+[10:57:16] [Server thread/INFO]: [Divij: Set own game mode to Survival Mode]
+[10:57:51] [Server thread/INFO]: TB_ was slain by Ender Dragon
+[10:57:55] [Server thread/INFO]: TB_ issued server command: /back
+[10:57:58] [Server thread/INFO]: LeLouch was slain by Enderman
+[10:58:02] [Server thread/INFO]: LeLouch issued server command: /back
+[11:00:15] [Server thread/INFO]: TB_ issued server command: /gamemode creative
+[11:00:15] [Server thread/INFO]: [TB_: Set own game mode to Creative Mode]
+[11:00:32] [Server thread/INFO]: LeLouch was slain by Enderman
+[11:00:37] [Server thread/INFO]: LeLouch issued server command: /back
+[11:00:53] [Server thread/INFO]: LeLouch issued server command: /gamemode creative
+[11:00:53] [Server thread/INFO]: [LeLouch: Set own game mode to Creative Mode]
+[11:01:03] [Server thread/INFO]: TB_ issued server command: /gamemode survival
+[11:01:03] [Server thread/INFO]: [TB_: Set own game mode to Survival Mode]
+[11:01:48] [Server thread/INFO]: TB_ issued server command: /gamemode creative
+[11:01:48] [Server thread/INFO]: [TB_: Set own game mode to Creative Mode]
+[11:02:21] [Server thread/INFO]: LeLouch issued server command: /gamemode survival
+[11:02:21] [Server thread/INFO]: [LeLouch: Set own game mode to Survival Mode]
+[11:02:34] [Server thread/INFO]: LeLouch issued server command: /gamemode creative
+[11:02:34] [Server thread/INFO]: [LeLouch: Set own game mode to Creative Mode]
+[11:02:39] [Server thread/INFO]: TB_ issued server command: /gamemode survival
+[11:02:39] [Server thread/INFO]: [TB_: Set own game mode to Survival Mode]
+[11:03:33] [Server thread/INFO]: Divij issued server command: /gamemode creative
+[11:03:33] [Server thread/INFO]: [Divij: Set own game mode to Creative Mode]
+[11:04:46] [Server thread/INFO]: TB_ issued server command: /gamemode spectator
+[11:04:46] [Server thread/INFO]: [TB_: Set own game mode to Spectator Mode]
+[11:05:11] [Server thread/INFO]: LeLouch issued server command: /gamemode survival
+[11:05:11] [Server thread/INFO]: [LeLouch: Set own game mode to Survival Mode]
+[11:05:42] [Server thread/INFO]: LeLouch issued server command: /gamemode creative
+[11:05:42] [Server thread/INFO]: [LeLouch: Set own game mode to Creative Mode]
+[11:06:39] [Server thread/INFO]: TB_ issued server command: /gamemode survival
+[11:06:39] [Server thread/INFO]: [TB_: Set own game mode to Survival Mode]
+[11:07:48] [Server thread/INFO]: LeLouch issued server command: /gamemode survival
+[11:07:48] [Server thread/INFO]: [LeLouch: Set own game mode to Survival Mode]
+[11:08:59] [Server thread/INFO]: LeLouch issued server command: /gamemode spectator
+[11:08:59] [Server thread/INFO]: [LeLouch: Set own game mode to Spectator Mode]
+[11:09:04] [Server thread/INFO]: Divij issued server command: /gamemode survival
+[11:09:04] [Server thread/INFO]: [Divij: Set own game mode to Survival Mode]
+[11:09:32] [Server thread/INFO]: LeLouch issued server command: /gamemode winner
+[11:09:32] [Server thread/INFO]: [LeLouch: 'winner' is not a valid number]
+[11:10:08] [Server thread/INFO]: LeLouch issued server command: /gamemode survival
+[11:10:08] [Server thread/INFO]: [LeLouch: Set own game mode to Survival Mode]
+[11:10:51] [Server thread/INFO]: Divij issued server command: /gamemode creative
+[11:10:51] [Server thread/INFO]: [Divij: Set own game mode to Creative Mode]
+[11:10:58] [Server thread/INFO]: Divij issued server command: /summon ender_dragon
+[11:10:58] [Server thread/WARN]: Skipping Entity with id ender_dragon
+[11:10:58] [Server thread/INFO]: [Divij: Unable to summon object]
+[11:11:17] [Server thread/INFO]: Divij issued server command: /summon ender_dragon 11 70 -18
+[11:11:17] [Server thread/WARN]: Skipping Entity with id ender_dragon
+[11:11:17] [Server thread/INFO]: [Divij: Unable to summon object]
+[11:11:59] [Server thread/INFO]: LeLouch issued server command: //advancement grant @a everything
+[11:12:13] [Server thread/INFO]: LeLouch issued server command: /advancement grant @a everything
+[11:12:14] [Server thread/INFO]: Divij issued server command: /gamemode spectator
+[11:12:14] [Server thread/INFO]: [Divij: Set own game mode to Spectator Mode]
+[11:14:11] [Server thread/INFO]: LeLouch fell from a high place
+[11:14:18] [Server thread/INFO]: LeLouch issued server command: /back
+[11:18:12] [Server thread/INFO]: LeLouch was slain by Ender Dragon
+[11:18:18] [Server thread/INFO]: LeLouch issued server command: /back
+[11:18:53] [Server thread/INFO]: LeLouch fell from a high place
+[11:18:56] [Server thread/INFO]: TB_ fell from a high place
+[11:18:56] [Server thread/INFO]: LeLouch issued server command: /back
+[11:18:59] [Server thread/INFO]: TB_ issued server command: /back
+[11:19:09] [Server thread/INFO]: LeLouch issued server command: /gamemode creative
+[11:19:09] [Server thread/INFO]: [LeLouch: Set own game mode to Creative Mode]
+[11:20:38] [Server thread/INFO]: LeLouch issued server command: /gamemode survival
+[11:20:38] [Server thread/INFO]: [LeLouch: Set own game mode to Survival Mode]
+[11:22:12] [Server thread/INFO]: TB_ was slain by Ender Dragon
+[11:22:16] [Server thread/INFO]: TB_ issued server command: /back
+[11:24:17] [Server thread/INFO]: TB_ issued server command: /gamemode creative
+[11:24:17] [Server thread/INFO]: [TB_: Set own game mode to Creative Mode]
+[11:24:20] [Server thread/INFO]: LeLouch issued server command: /gamemode creative
+[11:24:20] [Server thread/INFO]: [LeLouch: Set own game mode to Creative Mode]
+[11:25:06] [Server thread/INFO]: TB_ issued server command: /gamemode survival
+[11:25:06] [Server thread/INFO]: [TB_: Set own game mode to Survival Mode]
+[11:25:42] [Server thread/INFO]: LeLouch issued server command: /gamemode survival
+[11:25:42] [Server thread/INFO]: [LeLouch: Set own game mode to Survival Mode]
+[11:25:44] [Server thread/INFO]: TB_ issued server command: /gamemode creative
+[11:25:44] [Server thread/INFO]: [TB_: Set own game mode to Creative Mode]
+[11:26:09] [Server thread/INFO]: TB_ issued server command: /gamemode survival
+[11:26:09] [Server thread/INFO]: [TB_: Set own game mode to Survival Mode]
+[11:26:41] [Server thread/INFO]: Divij issued server command: /gamemode survival
+[11:26:41] [Server thread/INFO]: [Divij: Set own game mode to Survival Mode]
+[11:27:19] [Server thread/INFO]: Divij issued server command: /gamemode creative
+[11:27:19] [Server thread/INFO]: [Divij: Set own game mode to Creative Mode]
+[11:27:27] [Server thread/INFO]: TB_ issued server command: /gamemode spectator
+[11:27:27] [Server thread/INFO]: [TB_: Set own game mode to Spectator Mode]
+[11:27:40] [Server thread/INFO]: Divij issued server command: /gamemode spectator
+[11:27:40] [Server thread/INFO]: [Divij: Set own game mode to Spectator Mode]
+[11:28:15] [Server thread/INFO]: TB_ issued server command: /gamemode survival
+[11:28:15] [Server thread/INFO]: [TB_: Set own game mode to Survival Mode]
+[11:28:32] [Server thread/INFO]: Divij issued server command: /gamode survival
+[11:28:49] [Server thread/INFO]: Divij issued server command: /gamemode survival
+[11:28:49] [Server thread/INFO]: [Divij: Set own game mode to Survival Mode]
+[11:28:49] [Server thread/INFO]: LeLouch issued server command: /tp @p -3 66 56
+[11:28:49] [Server thread/INFO]: [LeLouch: Teleported LeLouch to -2.5, 66.0, 56.5]
+[11:29:20] [Server thread/INFO]: TB_ has just earned the achievement [The End.]
+[11:31:55] [Server thread/WARN]: Divij moved wrongly!
+[11:32:08] [Server thread/INFO]: LeLouch was slain by TB_
+[11:32:37] [Server thread/INFO]: LeLouch issued server command: /gamemode creative
+[11:32:37] [Server thread/INFO]: [LeLouch: Set own game mode to Creative Mode]
+[11:32:39] [Server thread/INFO]: TB_ was shot by Divij
+[11:33:20] [Server thread/INFO]: TB_ was shot by Divij
+[11:33:52] [Server thread/INFO]: LeLouch issued server command: /gamemode survival
+[11:33:52] [Server thread/INFO]: [LeLouch: Set own game mode to Survival Mode]
+[11:34:03] [Server thread/INFO]: Divij was slain by LeLouch
+[11:34:08] [Server thread/INFO]: Divij issued server command: /back
+[11:34:35] [Server thread/INFO]: Divij was slain by TB_
+[11:34:43] [Server thread/INFO]: TB_ was slain by LeLouch
+[11:34:56] [Server thread/INFO]: TB_ was slain by LeLouch
+[11:34:57] [Server thread/INFO]: Divij was slain by LeLouch
+[11:35:01] [Server thread/INFO]: TB_ was slain by LeLouch
+[11:35:05] [Server thread/INFO]: Divij was slain by LeLouch
+[11:35:08] [Server thread/INFO]: TB_ was slain by LeLouch
+[11:35:09] [Server thread/INFO]: Divij was slain by LeLouch
+[11:35:13] [Server thread/INFO]: Divij was slain by LeLouch
+[11:35:16] [Server thread/INFO]: TB_ was slain by LeLouch
+[11:35:27] [Server thread/INFO]: Divij was slain by LeLouch
+[11:35:39] [Server thread/INFO]: Divij was slain by LeLouch
+[11:36:03] [Server thread/INFO]: Divij was slain by LeLouch
+[11:36:06] [Server thread/INFO]: Divij was slain by LeLouch
+[11:36:09] [Server thread/INFO]: Divij was slain by LeLouch
+[11:36:13] [Server thread/INFO]: LeLouch was slain by Zombie
+[11:36:28] [Server thread/INFO]: TB_ was slain by Divij
+[11:36:34] [Server thread/INFO]: LeLouch was slain by Divij
+[11:36:38] [Server thread/INFO]: TB_ was slain by Zombie Pigman
+[11:36:43] [Server thread/INFO]: LeLouch was slain by Divij
+[11:36:47] [Server thread/INFO]: TB_ was slain by Divij
+[11:36:52] [Server thread/INFO]: LeLouch was slain by Divij
+[11:36:58] [Server thread/INFO]: Divij was slain by LeLouch
+[11:37:06] [Server thread/INFO]: LeLouch was slain by Divij
+[11:37:09] [Server thread/INFO]: TB_ issued server command: /gamemode creative
+[11:37:09] [Server thread/INFO]: [TB_: Set own game mode to Creative Mode]
+[11:37:19] [Server thread/INFO]: LeLouch was slain by Divij
+[11:37:24] [Server thread/INFO]: Divij lost connection: Disconnected
+[11:37:24] [Server thread/INFO]: Divij left the game.
+[11:37:33] [Server thread/INFO]: LeLouch lost connection: Disconnected
+[11:37:33] [Server thread/INFO]: LeLouch left the game.
+[11:37:36] [Server thread/INFO]: TB_ issued server command: /gamemode surviavl
+[11:37:36] [Server thread/INFO]: [TB_: 'surviavl' is not a valid number]
+[11:37:42] [Server thread/INFO]: TB_ issued server command: /gamemode surviavl
+[11:37:42] [Server thread/INFO]: [TB_: 'surviavl' is not a valid number]
+[11:37:50] [Server thread/INFO]: TB_ issued server command: /gamemode survival
+[11:37:50] [Server thread/INFO]: [TB_: Set own game mode to Survival Mode]
+[11:39:01] [Server thread/INFO]: TB_ lost connection: Disconnected
+[11:39:01] [Server thread/INFO]: TB_ left the game.
+[11:39:23] [Thread-2/INFO]: Stopping server
